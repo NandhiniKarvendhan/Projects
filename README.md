@@ -1,3 +1,3 @@
 # Projects
 
-In this repository,
+This repository contains HTML, CSS and JavaScript projects.
