@@ -4,7 +4,7 @@ body {
   justify-content: center;
   height: 100vh;
   align-items: center;
-  background-color: rgb(246, 246, 147);
+  background-color: rgb(196, 251, 153);
 }
 .feedback-container {
   background-color: white;
@@ -29,7 +29,7 @@ body {
 .fa-regular {
   margin: 1px;
   transform: translateX(0);
-  /* transition: 0.2s; */
+  transition: 0.2s;
 }
 .rating-container {
   position: absolute;
