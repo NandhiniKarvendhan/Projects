@@ -1,3 +1,8 @@
+h1 {
+  text-align: center;
+  font-size: 5em;
+  font-family: cursive;
+}
 .container {
   width: 400px;
   margin: 10vh auto 0 auto;
