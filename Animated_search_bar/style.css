@@ -18,6 +18,7 @@ body {
     -6px -6px 10px rgba(255, 255, 255, 0.7);
   margin: 10px; /* to have space in smaller screen */
   position: relative;
+  transition: width 1.5s;
 }
 .magnifier {
   width: 25px;
@@ -30,6 +31,8 @@ body {
   width: 30px;
   position: absolute;
   right: 10px;
+  transition: width 0.4s;
+  transition-delay: 1s;
 }
 .input {
   background-color: transparent;
@@ -37,6 +40,9 @@ body {
   outline: none;
   margin: 10px 50px;
   color: rgb(100, 100, 100);
+  width: 100%;
+  transition: width 1s;
+  transition-delay: 0.6s;
 }
 .active.search-bar-container {
   width: 50px;
