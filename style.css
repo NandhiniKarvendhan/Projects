@@ -1,0 +1,23 @@
+.card {
+  margin-bottom: 25px;
+  border-color: var(--secondary);
+}
+
+.card-header {
+  background-color: var(--secondary);
+  color: var(--white);
+  font-weight: 500;
+}
+
+h1 {
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+.divider {
+  border-color: var(--primary);
+  background-color: var(--primary);
+  text-align: center;
+}
+.eye-icon {
+  width: 35px;
+}
