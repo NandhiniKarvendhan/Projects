@@ -15,6 +15,7 @@ const updateCountDown = () => {
   const day = hour * 24;
 
   const remainingDay = Math.floor(gap / day);
+  console.log(remainingDay);
   const remainingHour = Math.floor((gap % day) / hour);
   const remainingMinute = Math.floor((gap % hour) / minute);
   const remainingSecond = Math.floor((gap % minute) / second);
