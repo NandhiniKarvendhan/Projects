@@ -9,3 +9,8 @@ In this project, A random password generator is created to generate strong and s
 1. Download or clone this repository.
 2. Move to Random_Password_Generator folder.
 3. Open index.html file in your browser.
+
+## Technologies
+1. HTML
+2. CSS
+3. JavaScript 
