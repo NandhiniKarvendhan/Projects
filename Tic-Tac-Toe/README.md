@@ -9,3 +9,8 @@ Tic Tac Toe is a two-player game in which the objective is to take turns and mar
 1. Download or clone this repository.
 2. Open Tic-Tac-Toe and open index.html file in your browser.
 3. Enjoy Tic-Tac-Toe game.
+
+## Technologies 
+1. HTML
+2. CSS
+3. JavaScript 
