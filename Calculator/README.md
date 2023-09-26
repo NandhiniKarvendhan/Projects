@@ -9,3 +9,8 @@ In this project, we are going to create simple calculator to perform basic calcu
 1. Download or clone this repository.
 2. Move to Calculator folder.
 3. Open index.html file in your browser.
+
+## Technologies 
+1. HTML
+2. CSS
+3. JavaScript 
